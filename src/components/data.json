@@ -1,0 +1,87 @@
+[
+    {
+      "id": "1",
+      "name" : "Latte",
+      "image":"latte.png",
+      "price":110,
+      "qty":1,
+      "desc":"blabla",
+      "total":0
+    },
+    {
+        "id": "2",
+        "name" : "Cappuccino",
+        "image":"latte.png",
+        "price":230,
+        "qty":1,
+        "desc":"blabla",
+        "total":0
+      },
+
+      {
+        "id": "3",
+        "name" : "Espresso",
+        "image":"latte.png",
+        "price":165,
+        "qty":1,
+        "desc":"blabla",
+        "total":0
+      },
+      {
+        "id": "4",
+        "name" : "Flat White",
+        "image":"latte.png",
+        "price":134,
+        "qty":1,
+        "desc":"blabla",
+        "total":0
+      },
+      {
+        "id": "5",
+        "name" : "Black Coffee",
+        "image":"latte.png",
+        "price":85,
+        "qty":1,
+        "desc":"blabla",
+        "total":0
+      },
+      {
+        "id": "6",
+        "name" : "Mochaccino",
+        "image":"latte.png",
+        "price":210,
+        "qty":1,
+        "desc":"blabla",
+        "total":0
+      },
+      {
+        "id": "7",
+        "name" : "Normal Coffee",
+        "image":"latte.png",
+        "price":55,
+        "qty":1,
+        "desc":"blabla",
+        "total":0
+      },
+      {
+        "id": "8",
+        "name" : "Macchiato ",
+        "image":"latte.png",
+        "price":199,
+        "qty":1,
+        "desc":"blabla",
+        "total":0
+      },
+      {
+        "id": "9",
+        "name" : "Irish Coffee ",
+        "image":"latte.png",
+        "price":120,
+        "qty":1,
+        "desc":"blabla",
+        "total":0
+      }
+      
+
+    
+    ]
